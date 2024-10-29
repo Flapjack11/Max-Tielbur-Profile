@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
+title: "Max Tielbur's Profile"
+name: "Job Market Profile for Max Tielbur"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+url: "https://flapjack11.github.io"
+baseurl: "/Max-Tielbur-Profile/"
+repository: "flapjack11/Max-Tielbur-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
