@@ -6,9 +6,8 @@ header:
 
 # Welcome​
 
-<img src="/assets/images/Tielbur_Maxwell_headshot.png" width="50%" hspace="20" align="right">
+<img src="/assets/images/Tielbur_Maxwell_headshot.png" width="30%" hspace="10" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
 My name is Maxwell Tielbur, and I am a Senior Marketing Major working towards a certificate in sales and digital marketing.
 
