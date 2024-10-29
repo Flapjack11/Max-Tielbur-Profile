@@ -7,7 +7,7 @@ url: "https://flapjack11.github.io"
 baseurl: "/Max-Tielbur-Profile/"
 repository: "flapjack11/Max-Tielbur-Profile"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/Tielbur_Maxwell_headshot.png
 
 include:
   - _pages
@@ -37,9 +37,9 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
+  name   : "Max T"
   avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  bio    : "My name is Max Tielbur, and I am a marketing major at Northern Illinois University."
   location: "DeKalb, Illinois"
   github : 
   linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
